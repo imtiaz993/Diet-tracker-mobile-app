@@ -22,7 +22,8 @@ const App = () => {
         console.log('User account created & signed in!');
         firestore()
           .collection('Users')
-          .add({
+          .doc(res.user.uid)
+          .set({
             userID: res.user.uid,
             email: 'imtiazh993@gmail.com',
             name: 'Imtiaz Hussain',
