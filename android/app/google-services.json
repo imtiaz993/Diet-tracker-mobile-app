@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462535594769",
+    "project_id": "fyp-ubit-18101044",
+    "storage_bucket": "fyp-ubit-18101044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462535594769:android:93bed337fbe368287872b0",
+        "android_client_info": {
+          "package_name": "com.digitalvision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462535594769-6h95c647r0lgpq94b2cqnrm96qkhsm5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeY_DdGK1SfTScb6-SWI0UkrRZMF6i73U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462535594769-6h95c647r0lgpq94b2cqnrm96qkhsm5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
